@@ -18,3 +18,8 @@ springboot-demo/springboot-demo/bin/src/test/java/com/springboot/demo/springboot
 springboot-demo/springboot-demo/com/springboot/demo/springboot_demo/SpringbootDemoApplication.java
 .metadata/.plugins/org.eclipse.m2e.logback/0.log
 .metadata/.log
+/.metadata/
+*.index
+*.ser
+*.dat
+*.snap
