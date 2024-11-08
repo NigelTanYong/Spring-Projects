@@ -23,3 +23,4 @@ springboot-demo/springboot-demo/com/springboot/demo/springboot_demo/SpringbootDe
 *.ser
 *.dat
 *.snap
+.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi
